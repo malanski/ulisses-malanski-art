@@ -6,7 +6,7 @@ Tecnologias:
 - GIT
 - Github
 
-Utiliza os seguintes eleentos HTML:
+Utiliza os seguintes elementos HTML:
 - 1 head
 - 2 meta
 - 3 link
@@ -14,10 +14,10 @@ Utiliza os seguintes eleentos HTML:
 - 6 body
 - 7 header
 - 8 nav
-- 9 ul
+- 9 ul, li
 - 10 progress
 - 11 main 
-- 12 h1
+- 12 h1, h2, h3
 - 13 div
 - 14 img
 - 15 iframe
@@ -25,9 +25,9 @@ Utiliza os seguintes eleentos HTML:
 - 17 cite
 - 18 strong
 - 19 small
-- 20 table
+- 20 table, thead, tfoot, tbody, tr, th, td
 - 21 caption
-- 22 ol
+- 22 ol, li
 - 23 b
 - 24 blockquote
 - 25 br
@@ -52,11 +52,11 @@ Utiliza os seguintes eleentos HTML:
 
 ## objetivos:
 
-    Apenas HTML e CSS!
-    Utilizar ao menos 30 elementos do HTML
-    Utilizar .classes e #ids, da forma correta
-    Deve ter algumas imagens
-    Deve ter ao menos um embed do YouTube em algum lugar da página
-    Nenhuma página em nosso contexto atual pode ser limitada ao browser de apenas um tamanho, deve ser responsivo. Ao menos uma versão mobile e uma versão desktop.
-    O código precisa estar no GitHub
+* Apenas HTML e CSS!
+* Utilizar ao menos 30 elementos do HTML
+* Utilizar .classes e #ids, da forma correta
+* Deve ter algumas imagens
+* Deve ter ao menos um embed do YouTube em algum lugar da página
+* Nenhuma página em nosso contexto atual pode ser limitada ao browser de apenas um tamanho, deve ser responsivo. Ao menos uma versão mobile e uma versão  desktop.
+* O código precisa estar no GitHub
 
