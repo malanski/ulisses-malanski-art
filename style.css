@@ -61,8 +61,28 @@ main{
 }
 
 .main-fotos{
-    width: 99%;
-    margin-left: 0.5%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0;
+}
+.main-fotos img {
+    width: 25%;
+    height: 370px;
+    
+}
+
+@media screen and (max-width: 412px) {
+    .main-fotos{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        margin: 0;
+    }
+    .main-fotos img {
+        width: 50%;
+    }        
+    
 }
 
 .videos {
