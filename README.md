@@ -60,6 +60,6 @@ Utiliza os seguintes elementos HTML:
 * Nenhuma página em nosso contexto atual pode ser limitada ao browser de apenas um tamanho, deve ser responsivo. Ao menos uma versão mobile e uma versão  desktop.
 * O código precisa estar no GitHub
 * Criar versões para os breakpoints mais importantes. O Next.js sugere: 640, 750, 828, 1080, 1200, 1920, 2048, 3840.
-* Garantir um HTML 100% válido pela W3C
+* Garantir um HTML 100% válido pela W3C= Document checking completed. No errors or warnings to show.
 
 
