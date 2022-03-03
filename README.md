@@ -1,12 +1,47 @@
-## Artistic Portfolio  
-<a href="https://malanski.github.io/ulisses-malanski-art/index.html">Github pages Deploy</a>
+# Artistic Portfolio  
+  
+HTML + CSS study from Web Development Awari FULL STACK Course  
+This project is a basic study on HTML and CSS.
 
-Tecnologias:
+<div align="right">
+  
+### Deploy at: <a href="https://malanski.github.io/ulisses-malanski-art/index.html">Github pages</a>
+  
+</div>
+
+Technologies:
 - HTML5
 - CSS3
 - GIT
 - Github
 
+## Objectives:
+- Use only HMLL e CSS.
+- At least 30 diferent elements.
+- Use Class and id.
+- Must have Images.
+- Add a embed a You tube video
+- Add Responsive flexibility to breakpoints
+- Ensure that your site get a W3C validation.  
+
+
+PT-BR
+# Atividade 5
+
+- Criar uma página utilizando apenas HTML e CSS!
+
+## objetivos:
+
+* Apenas HTML e CSS!
+* Utilizar ao menos 30 elementos do HTML
+* Utilizar .classes e #ids, da forma correta
+* Deve ter algumas imagens
+* Deve ter ao menos um embed do YouTube em algum lugar da página
+* Nenhuma página em nosso contexto atual pode ser limitada ao browser de apenas um tamanho, deve ser responsivo. Ao menos uma versão mobile e uma versão  desktop.
+* O código precisa estar no GitHub
+* Criar versões para os breakpoints mais importantes. O Next.js sugere: 640, 750, 828, 1080, 1200, 1920, 2048, 3840.
+* Garantir um HTML 100% válido pela W3C= Document checking completed. No errors or warnings to show.
+   
 Utiliza os seguintes elementos HTML:
 - 1 head
 - 2 meta
@@ -47,20 +82,5 @@ Utiliza os seguintes elementos HTML:
 - 38 !HTML 
 
 
-# Atividade
-
-- Criar uma página utilizando apenas HTML e CSS!
-
-## objetivos:
-
-* Apenas HTML e CSS!
-* Utilizar ao menos 30 elementos do HTML
-* Utilizar .classes e #ids, da forma correta
-* Deve ter algumas imagens
-* Deve ter ao menos um embed do YouTube em algum lugar da página
-* Nenhuma página em nosso contexto atual pode ser limitada ao browser de apenas um tamanho, deve ser responsivo. Ao menos uma versão mobile e uma versão  desktop.
-* O código precisa estar no GitHub
-* Criar versões para os breakpoints mais importantes. O Next.js sugere: 640, 750, 828, 1080, 1200, 1920, 2048, 3840.
-* Garantir um HTML 100% válido pela W3C= Document checking completed. No errors or warnings to show.
 
 
