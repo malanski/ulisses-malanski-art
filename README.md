@@ -1,4 +1,5 @@
-# Artistic Portfolio  
+# HTML + CSS Project: Artistic Portfolio  
+## Specification 1
   
 HTML + CSS study from Web Development Awari FULL STACK Course  
 This project is a basic study on HTML and CSS.
