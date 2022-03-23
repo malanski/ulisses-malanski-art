@@ -1,4 +1,5 @@
 # HTML + CSS Project: Artistic Portfolio  
+Activity 6: AWARI Web Development Course 
 ## Specification 1
   
 HTML + CSS study from Web Development Awari FULL STACK Course  
